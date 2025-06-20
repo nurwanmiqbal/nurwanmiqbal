@@ -3,12 +3,13 @@
 Hi, I'm Nurwan 👋<br>I’m a data analyst and researcher with a strong foundation in transforming raw data into actionable insights.<br><br>💡 My work bridges the gap between data and strategy—whether it’s uncovering patterns in consumer behavior, tracking business KPIs, or creating compelling data visualizations. I thrive on solving complex problems and communicating results clearly to both technical and non-technical stakeholders.
 
 
-## 💻 Tech Stack:
+##### 💻 Skills:
+[![My Skills](https://skillicons.dev/icons?i=python,postgresql)](https://skillicons.dev)
+![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-# 📊 GitHub Stats:
+##### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nurwanmiqbal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nurwanmiqbal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurwanmiqbal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
